@@ -5,5 +5,9 @@ public class Check {
 		
 		System.out.println("check method created");
 	}
+	public void check2() {
+		
+		System.out.println("check2 method created");
+	}
 
 }
